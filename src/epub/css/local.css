@@ -92,6 +92,22 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End play */
 
+/* Table inside play */
+[epub|type~="z3998:drama"] blockquote table{
+	margin: auto 1em;
+	width: auto;
+}
+
+[epub|type~="z3998:drama"] blockquote table td{
+	padding: 0;
+}
+
+[epub|type~="z3998:drama"] blockquote table td:last-child{
+	text-align: right;
+	padding-left: 1em;
+}
+/* End table inside play */
+
 /* Verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
