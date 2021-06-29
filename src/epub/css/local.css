@@ -92,6 +92,7 @@ section[epub|type~="z3998:scene"] > p{
 
 /* Table inside play */
 [epub|type~="z3998:drama"] blockquote table{
+	font-variant-numeric: tabular-nums;
 	margin: auto 1em;
 	width: auto;
 }
