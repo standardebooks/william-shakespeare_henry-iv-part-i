@@ -43,7 +43,7 @@
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">King Henry IV faces Welsh and Scottish rebels. Some English royals are plotting to betray their own king.</dc:description>
+		<dc:description id="description">King Henry IV faces Welsh and Scottish rebels; some English royals are plotting to betray their own king.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;King Henry IV’s plans to lead a crusade to Jerusalem are on hold after hearing about skirmishes along England’s borders with Wales and Scotland. The Welsh rebel, Glendower, has been successful in fighting off the English forces and has managed to capture Edmund Mortimer, Earl of March. Meanwhile, Harry Percy’s fight is successfully keeping the Scottish rebels led by Douglas at bay. Harry Perry, well known as Hotspur, has also taken numerous political prisoners, including Douglas’s son Mordake.&lt;/p&gt;
 			&lt;p&gt;Henry VI is also concerned about his son. During this time of political unrest, Hal has been spending most of his time drinking with criminals and highwaymen in taverns on the poor side of London, everything that is unbefitting to a future king of the throne. His closest friend and partner in crime is Sir John Falstaff, a fat old drunk and charismatic thief. When the king calls for his wild son to return to court, Falstaff and his street-smart group of friends are ready to support their prince on the battlefront.&lt;/p&gt;
