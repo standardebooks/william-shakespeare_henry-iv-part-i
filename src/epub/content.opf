@@ -30,6 +30,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Henry IV, Part I</dc:title>
 		<meta property="file-as" refines="#title">Henry IV, Part I</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the 4th, Part 1</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the Fourth, Part One</meta>
 		<dc:subject id="subject-1">Henry IV, King of England, 1367-1413 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Historical drama</dc:subject>
 		<dc:subject id="subject-3">Great Britain -- History -- Henry IV, 1399-1413 -- Drama</dc:subject>
@@ -42,9 +44,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Henriad</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<meta id="collection-2" property="belongs-to-collection">Henry IV</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s Second Tetralogy</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<meta property="group-position" refines="#collection-2">1</meta>
+		<meta property="group-position" refines="#collection-2">2</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
