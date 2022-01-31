@@ -42,8 +42,8 @@
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -102,8 +102,8 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 [epub|type~="z3998:drama"] blockquote table td:last-child{
-	text-align: right;
 	padding-left: 1em;
+	text-align: right;
 }
 /* End table inside play */
 
