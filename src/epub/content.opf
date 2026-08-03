@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i</dc:identifier>
 		<dc:date>2021-06-29T23:48:19Z</dc:date>
@@ -50,12 +50,12 @@
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;King Henry IV’s plan to lead a crusade to Jerusalem is put on hold after he hears about skirmishes along England’s Welsh and Scottish borders. The Welsh rebel Glendower has fought off the English forces and has managed to capture Edmund Mortimer, Earl of March. Meanwhile, Harry Percy’s fight is successfully keeping the Scottish rebels, led by Douglas, at bay. Percy, better known as Hotspur, has taken numerous political prisoners, including Douglas’s son Mordake.&lt;/p&gt;
 			&lt;p&gt;The king is also concerned about his son Hal. During this time of political unrest, Hal has been spending most of his time drinking with criminals and highwaymen in taverns on the poor side of London—behavior unbefitting a future king. His closest friend and partner in crime is Sir John Falstaff, a fat old drunk and a charismatic thief. When the king calls for his wild son to return to court, Falstaff and his street-smart group of friends are ready to support their prince on the battlefront.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/1henryiv/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
